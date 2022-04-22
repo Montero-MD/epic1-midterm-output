@@ -1,2 +1,2 @@
-# projects
-Project Repository for CCS221 (S.Y. 2021-2022)
+# Mandala Tattoo
+This simple mandala is inspired by a dreamcatcher tattoo that my cousin has. 
